@@ -1,0 +1,12 @@
+{
+  "hosting": {
+  "site": "resepsaya-99",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
